@@ -1,0 +1,4 @@
+__pycache__
+.idea/
+/music/migrations
+db.sqlite3

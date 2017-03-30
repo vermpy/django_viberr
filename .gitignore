@@ -1,5 +1,5 @@
 __pycache__
 .idea/
 /music/migrations
+/music/static/music/js/bootstrap.min.css
 db.sqlite3
-bootstrap.min.css

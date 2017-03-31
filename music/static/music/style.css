@@ -19,10 +19,14 @@ ul.errorlist > li {
 }
 
 .glyphicon-star {
-    color: #CCCCCC;
+    color: #cccccc;
     font-size: 16px;
 }
 
 .glyphicon-star.active {
-    color: #FDB230;
+    color: #faaf1e;
+}
+
+.table {
+    margin-bottom: 0;
 }
